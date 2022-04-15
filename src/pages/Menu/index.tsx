@@ -6,6 +6,7 @@ import Filter from "./Filter";
 
 export default function Menu() {
   const [search, setSearch] = useState("");
+  const [filter, setFilter] = useState<number | null>(null);
   return (
     <main>
       <nav className={styles.navbar}>
@@ -24,11 +25,11 @@ export default function Menu() {
         <div className={styles.header__text}>Kings Burgers & Beers</div>
       </header>
       <section className={styles.menuSection}>
-        <h3 className={styles.menuSection__title}>Highlights</h3>
         <Search search={search} setSearch={setSearch} />
         <div className={styles.menuSection__filter}>
-          <Filter />
+          <Filter filter={filter} setFilter={setFilter} />
         </div>
+        <h3 className={styles.menuSection__title}>Highlights</h3>
       </section>
     </main>
   );
