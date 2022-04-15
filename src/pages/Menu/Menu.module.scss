@@ -12,6 +12,15 @@
   @media (min-width: $desktop_sm) and (max-width: $desktop_md) {
     padding: 20px $padding-horizontal-md;
   }
+
+  &__imageContainer {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+  }
+  &__title {
+    font-size: 3rem;
+  }
 }
 
 .header {
@@ -56,5 +65,13 @@
     color: $dark;
     font-size: 3rem;
     margin-bottom: 30px;
+  }
+  &__filter {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    width: 100%;
   }
 }
