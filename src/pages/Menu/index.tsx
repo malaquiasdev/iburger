@@ -8,7 +8,7 @@ import OrderBy from "./OrderBy";
 export default function Menu() {
   const [search, setSearch] = useState("");
   const [filter, setFilter] = useState<number | null>(null);
-  const [orderBy, setOrderBy] = useState<string | null>(null);
+  const [orderBy, setOrderBy] = useState<string>("default");
   return (
     <main>
       <nav className={styles.navbar}>
@@ -30,7 +30,7 @@ export default function Menu() {
         <Search search={search} setSearch={setSearch} />
         <div className={styles.menuSection__filter}>
           <Filter filter={filter} setFilter={setFilter} />
-          <OrderBy orderBy={orderBy} setOrderBy={setOrderBy}></OrderBy>
+          <OrderBy orderBy={orderBy} setOrderBy={setOrderBy} />
         </div>
         <h3 className={styles.menuSection__title}>Highlights</h3>
       </section>
