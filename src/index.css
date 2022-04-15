@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+
 html,
 body,
 div,
@@ -129,4 +131,5 @@ body {
 
 * {
   box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
 }
