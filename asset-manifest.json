@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iburger/static/css/main.2576f0d6.css",
+    "main.js": "/iburger/static/js/main.b69c5782.js",
+    "static/media/logo.png": "/iburger/static/media/logo.a34b4d961501dcf3f6fb.png",
+    "static/media/header4.jpg": "/iburger/static/media/header4.34ce80fbc6096c5b1a19.jpg",
+    "index.html": "/iburger/index.html",
+    "main.2576f0d6.css.map": "/iburger/static/css/main.2576f0d6.css.map",
+    "main.b69c5782.js.map": "/iburger/static/js/main.b69c5782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2576f0d6.css",
+    "static/js/main.b69c5782.js"
+  ]
+}
