@@ -257,7 +257,7 @@
         "id": "d6673087-9204-4337-99b1-ed760a678113",
         "title": "Coca-Cola Light",
         "description": "Coca-Cola, 350ml.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202012061752_gViJ_.jpeg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678113.jpg?raw=true",
         "price": 8.07,
         "tags": [
           "SERVES_1",
@@ -268,7 +268,7 @@
         "id": "d6673087-9204-4337-99b1-ed760a671194",
         "title": "Pink Lemonade",
         "description": "300 ml da nossa limonada com frutas vermelhas.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202012061750_TUBT_.jpeg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a671194.jpg?raw=true",
         "price": 12.07,
         "tags": [
           "SERVES_1"
