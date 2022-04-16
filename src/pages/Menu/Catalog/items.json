@@ -219,7 +219,7 @@
         "id": "d6673087-9204-4337-99b1-ez760a678191",
         "title": "Brooklyn Lager",
         "description": "Cerveja no estilo Vienna Lager, com 5,2% de teor alcoólico, produzida por uma das cervejarias mais tradicionais dos Estados Unidos, a Brooklyn Brewing.",
-        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678191.jpg?raw=true",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ez760a678191.jpg?raw=true",
         "price": 20.07,
         "tags": [
           "SERVES_1",
@@ -227,10 +227,10 @@
         ]
       },
       {
-        "id": "d6673087-9204-4337-99b1-ed760a678192",
+        "id": "d6673087-9204-4337-99b1-xd760a678192",
         "title": "Ever Kings",
         "description": "Cerveja no estilo New England IPA, com 8,1% de teor alcoólico e 80 Ibu, produzida em parceria com a Cervejaria Everbrew (473ml).",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111040002_U7U7_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-xd760a678192.jpg?raw=true",
         "price": 42.07,
         "tags": [
           "SERVES_1",
@@ -247,7 +247,7 @@
         "id": "d6673087-9204-4337-99b1-ed760a678141",
         "title": "Coca-Cola",
         "description": "Coca-Cola, 350ml.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202012061752_4Lqj_.jpeg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678141.jpg?raw=true",
         "price": 8.07,
         "tags": [
           "SERVES_1"
