@@ -9,9 +9,19 @@ export default function Catalog() {
         return (
           <>
             <h2 className={styles.catalog__title}>{section.name}</h2>
-            {section.itens.map((item) => {
-              return <CatalogItem key={item.id} />;
-            })}
+              {section.itens.map((item) => {
+                return (
+                  <CatalogItem
+                    key={item.id}
+                    id={item.id}
+                    title={item.title}
+                    description={item.description || ""}
+                    imageUrl={item.imageUrl || ""}
+                    price={item.price}
+                    tags={item.tags || []}
+                  />
+                );
+              })}
           </>
         );
       })}
