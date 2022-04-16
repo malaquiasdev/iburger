@@ -34,7 +34,7 @@
         "id": "9ac7b3ac-fc57-4595-b8ed-2adec3098740",
         "title": "Combo Cheese Bacon",
         "description": "Cheese Bacon (Hambúrguer de 180g, Queijo Prato e Candy Bacon, no Pão de Cará) + Batata Chips + 1 Refrigerante",
-        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/9ac7b3ac-fc57-4595-b8ed-2adec3098740jpg?raw=true",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/9ac7b3ac-fc57-4595-b8ed-2adec3098740.jpg?raw=true",
         "price": 44.07,
         "tags": [
           "SERVES_1"
@@ -70,7 +70,7 @@
         "id": "1bafca58-739d-4563-bae2-e4ab0612324f",
         "title": "Camemburger - King Carlos Magno",
         "description": "O vencedor do concurso Melhor Hambúrguer do Brasil em sua versão Humilde. \nHambúrguer de 180g, 60g de Queijo Camembert empanado, Candy Bacon e Maionese Verde, no Pão de Cará.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202012051813_9qrG_.jpeg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/1bafca58-739d-4563-bae2-e4ab0612324f.jpg?raw=true",
         "price": 48.07,
         "tags": [
           "SERVES_1"
@@ -80,7 +80,7 @@
         "id": "d6673087-9204-4337-99b1-ed760a678190",
         "title": "Rainha Elizabeth",
         "description": "Hambúrguer de 180g, Queijo Cheddar Inglês, molho Horseradish, Cebola Crispy, no Pão de Cará.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111032045_MKH2_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678190.jpg?raw=true",
         "price": 38.07,
         "tags": [
           "SERVES_1"
@@ -90,7 +90,7 @@
         "id": "d6673087-9204-4337-99b1-ed760a678191",
         "title": "Rei Robert De Bruce",
         "description": "Hambúrguer de 180g, Queijo Cheddar Inglês, cebola caramelizada no molho Bbq com Scotch Whisky, no Pão de Cará.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111032112_57JY_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678191.jpg?raw=true",
         "price": 38.07,
         "tags": [
           "SERVES_1"
@@ -100,7 +100,7 @@
         "id": "d6673087-9204-4337-99b1-ed760a678192",
         "title": "Rei Beowulf",
         "description": "Hambúrguer de 180g, Creme de Cheddar Spice, Farofa de Bacon, Tomate, Cebola picada e Ketchup, no Pão de Cará.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111032057_G654_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678192.jpg?raw=true",
         "price": 38.07,
         "tags": [
           "SERVES_1"
@@ -116,7 +116,7 @@
         "id": "1bafca58-739d-4563-bae2-e4ab0612324g",
         "title": "Cheese Bacon",
         "description": "Hambúrguer de 180g, Maionese Verde, Queijo Prato e Candy Bacon, no Pão de Cará.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202012051825_wQy6_.jpeg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/1bafca58-739d-4563-bae2-e4ab0612324g.jpg?raw=true",
         "price": 35.07,
         "tags": [
           "SERVES_1"
@@ -126,7 +126,7 @@
         "id": "d6673087-9204-4337-99b1-ed760a678193",
         "title": "Cheese Burger",
         "description": "Hambúrguer de 180g, Maionese Verde, Queijo Prato, no Pão de Cará.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111032134_Y8I5_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678193.jpg?raw=true",
         "price": 28.07,
         "tags": [
           "SERVES_1"
@@ -136,7 +136,7 @@
         "id": "d6673087-9204-4337-99b1-ed760a678194",
         "title": "Cheese Salada",
         "description": "Hambúrguer de 180g, Maionese Verde, Queijo Prato, alface, tomate e cebola, no Pão de Cará.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111032141_LB54_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678194.jpg?raw=true",
         "price": 29.07,
         "tags": [
           "SERVES_1"
@@ -145,8 +145,8 @@
       {
         "id": "d6673087-9204-4337-99b1-ed760a678195",
         "title": "Hambúrguer",
-        "details": "Hambúrguer de 180g e Maionese Verde no Pão de Cará.",
-        "logoUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111032124_0R56_i.jpg",
+        "description": "Hambúrguer de 180g e Maionese Verde no Pão de Cará.",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678195.jpg?raw=true",
         "price": 25.07,
         "tags": [
           "SERVES_1"
@@ -162,7 +162,7 @@
         "id": "1bafca58-739d-4563-bae2-e4ab0612324h",
         "title": "Camemburger - King Carlos Magno",
         "description": "Hambúrguer Smash de 90g, Maionese Verde, Queijo Prato e Candy Bacon, no Pão de Cará.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111031825_U6YV_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/1bafca58-739d-4563-bae2-e4ab0612324h.jpg?raw=true",
         "price": 27.07,
         "tags": [
           "SERVES_1"
@@ -172,7 +172,7 @@
         "id": "d6673087-9204-4337-99b1-ed760a678196",
         "title": "Camemburger - King Carlos Magno",
         "description": "Hambúrguer Smash de 90g, Maionese Verde, Queijo Prato, no Pão de Cará.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111032149_73G4_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678196.jpg?raw=true",
         "price": 20.07,
         "tags": [
           "SERVES_1"
@@ -182,7 +182,7 @@
         "id": "d6673087-9204-4337-99b1-ed760a678197",
         "title": "Cheese Salada Smash 90g",
         "description": "Hambúrguer Smash de 90g, Maionese Verde, Queijo Prato, alface, tomate e cebola, no Pão de Cará.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111031826_2U2N_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678197.jpg?raw=true",
         "price": 23.07,
         "tags": [
           "SERVES_1"
@@ -192,7 +192,7 @@
         "id": "d6673087-9204-4337-99b1-ed760a678198",
         "title": "Hambúrguer Smash 90g",
         "description": "Pão de Cará, Maionese Verde e Hambúrguer de 90g.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111031824_IS8U_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678198.jpg?raw=true",
         "price": 15.07,
         "tags": [
           "SERVES_1"
@@ -208,7 +208,7 @@
         "id": "d6673087-9204-4337-99b1-ef760a678190",
         "title": "Brooklyn East IPA",
         "description": "Cerveja no estilo IPA, com 6,8% de teor alcoólico, produzida por uma das cervejarias mais tradicionais dos Estados Unidos, a Brooklyn Brewing.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111041441_166O_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ef760a678190.jpg?raw=true",
         "price": 20.07,
         "tags": [
           "SERVES_1",
@@ -216,10 +216,10 @@
         ]
       },
       {
-        "id": "d6673087-9204-4337-99b1-ed760a678191",
+        "id": "d6673087-9204-4337-99b1-ez760a678191",
         "title": "Brooklyn Lager",
         "description": "Cerveja no estilo Vienna Lager, com 5,2% de teor alcoólico, produzida por uma das cervejarias mais tradicionais dos Estados Unidos, a Brooklyn Brewing.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111041441_4103_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ed760a678191.jpg?raw=true",
         "price": 20.07,
         "tags": [
           "SERVES_1",
