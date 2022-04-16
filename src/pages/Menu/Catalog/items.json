@@ -17,7 +17,7 @@
         "id": "d6673087-9204-4337-99b1-ef760a678190",
         "title": "Brooklyn East IPA",
         "description": "Cerveja no estilo IPA, com 6,8% de teor alcoólico, produzida por uma das cervejarias mais tradicionais dos Estados Unidos, a Brooklyn Brewing.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111041441_166O_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/d6673087-9204-4337-99b1-ef760a678190.jpg?raw=true",
         "price": 20.07,
         "tags": [
           "SERVES_1",
@@ -34,7 +34,7 @@
         "id": "9ac7b3ac-fc57-4595-b8ed-2adec3098740",
         "title": "Combo Cheese Bacon",
         "description": "Cheese Bacon (Hambúrguer de 180g, Queijo Prato e Candy Bacon, no Pão de Cará) + Batata Chips + 1 Refrigerante",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202012051838_EnlX_.jpeg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/9ac7b3ac-fc57-4595-b8ed-2adec3098740jpg?raw=true",
         "price": 44.07,
         "tags": [
           "SERVES_1"
@@ -44,7 +44,7 @@
         "id": "9ac7b3ac-fc57-4595-b8ed-2adec3098741",
         "title": "Combo Real",
         "description": "Escolha um de nossos Reis ou Rainha e monte seu combo com Batata Chips + Bebida.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202012051810_ETb9_.jpeg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/9ac7b3ac-fc57-4595-b8ed-2adec3098741.jpg?raw=true",
         "price": 49.07,
         "tags": [
           "SERVES_1"
@@ -54,7 +54,7 @@
         "id": "9ac7b3ac-fc57-4595-b8ed-2adec3098742",
         "title": "Combo Smashed Bacon",
         "description": "Super Combo exclusivo para o ifood: Smashed Bacon (Hambúrguer de 90g, Queijo Prato e Farofa de Bacon) + porção individual de Batata Chips da casa + Refrigerante.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202111032101_IXLR_i.jpg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/9ac7b3ac-fc57-4595-b8ed-2adec3098742.jpg?raw=true",
         "price": 34.07,
         "tags": [
           "SERVES_1"
