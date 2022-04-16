@@ -6,9 +6,5 @@
   {
     "key": "price",
     "value": "Price"
-  },
-  {
-    "key": "popularity",
-    "value": "Popularity"
   }
 ]
