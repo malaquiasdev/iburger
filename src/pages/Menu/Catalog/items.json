@@ -7,7 +7,7 @@
         "id": "1bafca58-739d-4563-bae2-e4ab0612324f",
         "title": "Camemburger - King Carlos Magno",
         "description": "O vencedor do concurso Melhor Hambúrguer do Brasil em sua versão Humilde. \nHambúrguer de 180g, 60g de Queijo Camembert empanado, Candy Bacon e Maionese Verde, no Pão de Cará.",
-        "imageUrl": "8aebf412-c700-4a12-8577-1e4c6b06650d/202012051813_9qrG_.jpeg",
+        "imageUrl": "https://github.com/malaquiasdev/iburger/blob/main/src/pages/assets/catalog/items/1bafca58-739d-4563-bae2-e4ab0612324f.jpg?raw=true",
         "price": 48.07,
         "tags": [
           "SERVES_1"
