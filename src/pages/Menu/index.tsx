@@ -4,6 +4,7 @@ import logo from "../assets/logo.png";
 import Search from "./Search";
 import Filter from "./Filter";
 import OrderBy from "./OrderBy";
+import Catalog from "./Catalog";
 
 export default function Menu() {
   const [search, setSearch] = useState("");
@@ -32,7 +33,7 @@ export default function Menu() {
           <Filter filter={filter} setFilter={setFilter} />
           <OrderBy orderBy={orderBy} setOrderBy={setOrderBy} />
         </div>
-        <h3 className={styles.menuSection__title}>Highlights</h3>
+        <Catalog />
       </section>
     </main>
   );

@@ -1,3 +1,13 @@
+@import "../../styles/variables";
+
+.catalog {
+  &__title {
+    color: $dark;
+    font-size: 3rem;
+    margin-bottom: 30px;
+  }
+}
+
 .itens {
   display: flex;
   flex-direction: column;
