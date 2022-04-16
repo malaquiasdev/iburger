@@ -8,7 +8,10 @@ interface IOrderByProps {
   setOrderBy: React.Dispatch<React.SetStateAction<string>>;
 }
 
-export default function OrderBy({ orderBy, setOrderBy }: IOrderByProps) {
+export default function OrderBy({
+  orderBy,
+  setOrderBy,
+}: IOrderByProps) {
   const [opened, setOpened] = useState<boolean>(false);
   function getSpanText(orderBy?: string | null) {
     const name = options.find((option) => option.key === orderBy)?.value;

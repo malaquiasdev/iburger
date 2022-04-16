@@ -33,7 +33,7 @@ export default function Menu() {
           <Filter filter={filter} setFilter={setFilter} />
           <OrderBy orderBy={orderBy} setOrderBy={setOrderBy} />
         </div>
-        <Catalog />
+        <Catalog searchText={search} filterId={filter} orderBy={orderBy} />
       </section>
     </main>
   );
